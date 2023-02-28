@@ -8,4 +8,4 @@ unzip tiny-imagenet.zip && rm -f tiny-imagenet.zip
 rm -r tiny-imagenet-200/tiny-imagenet-200
 
 # step 3: move to data folder
-mv tiny-imagenet-200 ../data/
+mv tiny-imagenet-200 ../data/TINY-imagenet/
